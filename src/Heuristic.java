@@ -1,4 +1,7 @@
 public interface Heuristic {
     // return the value the heuristic assigns to this configuration of the Board
-    int getValue(Board b);
+    int getValue(Board b1);
+
+    String getName();
 }
+

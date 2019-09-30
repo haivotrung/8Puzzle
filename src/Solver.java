@@ -1,14 +1,17 @@
-public abstract class Solver {
-    protected Board b;
-    protected Iterable<Board> frontier;
-    /*protected List<Board> solution;
+import java.util.ArrayList;
+import java.util.List;
 
-    public Solver(Board startBoard, Heuristic h) {
+public abstract class Solver {
+    final Board b;
+    final List<Board> solution;
+
+    Solver(Board startBoard, Heuristic h) {
         b = startBoard;
         b.setHeuristic(h);
-        solution = new ArrayList<Board>( );
+        solution = new ArrayList<>();
+
     }
 
-    public abstract List<Board> getSolution( );*/
+    public abstract List<Board> getSolution();
 }
 
