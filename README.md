@@ -43,9 +43,9 @@ Example output:
 
 Unsolvable. Generating new Board...
 
-5 4 8 
-6 3 0 
-1 7 2 
+5 4 8 \n
+6 3 0 \n
+1 7 2 \n
 
 Unsolvable. Generating new Board...
 
