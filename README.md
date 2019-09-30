@@ -37,66 +37,66 @@ No solution to the 8-puzzle (necessarily) has more than 31 moves.  No solution t
 
 
 Example output:
-0 4 5 
-2 1 7 
-6 8 3 
+0 4 5 //
+2 1 7 //
+6 8 3 //
 
 Unsolvable. Generating new Board...
 
-5 4 8 \n
-6 3 0 \n
-1 7 2 \n
+5 4 8 //
+6 3 0 //
+1 7 2 //
 
 Unsolvable. Generating new Board...
 
-2 6 8 
-3 7 5 
-0 1 4 
+2 6 8 //
+3 7 5 //
+0 1 4 //
 
 Manhattan A Star Search Initializing
 
 Moves made: 159
 Time elapsed: 0 milliseconds
 
-2 6 8 
-3 7 5 
-0 1 4 
+2 6 8 //
+3 7 5 //
+0 1 4 //
 
-2 6 8 
-3 7 5 
-1 0 4 
+2 6 8 //
+3 7 5 //
+1 0 4 //
 
-2 6 8 
-3 0 5 
-1 7 4 
+2 6 8 //
+3 0 5 //
+1 7 4 //
 
-2 6 8 
-0 3 5 
-1 7 4 
+2 6 8 //
+0 3 5 //
+1 7 4 //
 
-2 6 8 
-1 3 5 
-0 7 4 
+2 6 8 //
+1 3 5 //
+0 7 4 //
 
 ...
-0 2 3 
-1 4 6 
-7 5 8 
+0 2 3 //
+1 4 6 //
+7 5 8 //
 
-1 2 3 
-0 4 6 
-7 5 8 
+1 2 3 //
+0 4 6 //
+7 5 8 //
 
-1 2 3 
-4 0 6 
-7 5 8 
+1 2 3 //
+4 0 6 //
+7 5 8 //
 
-1 2 3 
-4 5 6 
-7 0 8 
+1 2 3 //
+4 5 6 //
+7 0 8 //
 
-1 2 3 
-4 5 6 
-7 8 0 
+1 2 3 //
+4 5 6 //
+7 8 0 //
 
 Moves to goal: 20
